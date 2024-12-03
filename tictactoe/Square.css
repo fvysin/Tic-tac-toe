@@ -1,0 +1,20 @@
+.square{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height:100px ;
+    width: 100px;
+    margin: 2px;
+    background-color: #2f4c5b;
+    transition: all ,5s;
+    border-radius: 0%;
+    border-color: chartreuse;
+}
+
+  
+  .icon {
+    width: 120px;
+    height: 120px;
+    object-fit: contain;
+  }
+  

@@ -61,7 +61,7 @@ Open the app in your browser at http://localhost:3000.
 🖌️ Screenshots 🔎
 Game Board 🕹️
 
-<img width="1024" alt="Captura de pantalla 2024-12-17 a las 20 53 34" src="https://github.com/user-attachments/assets/c3c4c076-ec04-4849-a969-247f4de72652" />
+<img width="800" alt="Captura de pantalla 2024-12-17 a las 20 53 34" src="https://github.com/user-attachments/assets/c3c4c076-ec04-4849-a969-247f4de72652" />
 
 
 📢 Feedback & Contributions

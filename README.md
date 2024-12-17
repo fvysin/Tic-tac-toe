@@ -1,4 +1,6 @@
 🎮 Tic Tac Toe App
+
+
 This is a fun and interactive Tic Tac Toe application built using React, CSS, and JavaScript. The app includes a modern UI, animations like fireworks for the winner, a reset functionality, score tracking, and clear indications of whose turn it is.
 
 This project served as a practice for building a functional React application with clean design and interactivity, putting into use state management, event handling, and component-based architecture.
